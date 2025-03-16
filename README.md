@@ -6,7 +6,7 @@
 - 👨‍💻 All of my Data Analysis projects are available at [https://github.com/Shatabdi-766](https://github.com/Shatabdi-766)  
 - 📫 Reach me at **sahashatabdi13@gmail.com**
 - 📊📑💼 **[Portfolio](https://shatport.netlify.app/)**
-- 📑👔**[Resume](https://snazzy-marigold-a6de0c.netlify.app/)**
+- 📑👔  **[Resume](https://snazzy-marigold-a6de0c.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
