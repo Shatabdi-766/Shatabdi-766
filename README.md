@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **SQL, Excel, Power BI, Metabase, Tableau, Python, Machine Learning, NLP**  
 - 👨‍💻 All of my Data Analysis projects are available at [https://github.com/Shatabdi-766](https://github.com/Shatabdi-766)  
 - 📫 Reach me at **sahashatabdi13@gmail.com**
+-  📊📑💼 **Portfolio**(https://shatport.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
